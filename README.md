@@ -1,6 +1,8 @@
 # math-advanced-functions
 Project made in Grade 12 (Early 2015)
 
+A PDF of the design document has been added in the repository
+
 1.0 Introduction
 The program Math Advanced Functions is a web based application that is designed to give the teacher
 of MHF4U aid to student progress throughout the course by giving daily quizzes. The
